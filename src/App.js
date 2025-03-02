@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://github.com/bee60990/weather_data_new"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>
