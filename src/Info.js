@@ -11,7 +11,7 @@ export default function Info(props) {
         </li>
         <li className="text-capitalize">{props.data.description}</li>
       </ul>
-      <div className="row" mt-3>
+      <div className="row mt-3">
         <div className="col-6">
           <img src={props.data.iconUrl} alt={props.data.description} />
           <span className="temperature">
