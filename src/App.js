@@ -9,7 +9,10 @@ export default function App() {
 
         <footer>
           This project was coded by Julia and can be found on{" "}
-          <a href="" target="_blank">
+          <a
+            href="https://github.com/bee60990/weather_data_new"
+            target="_blank"
+          >
             GitHub
           </a>
         </footer>
